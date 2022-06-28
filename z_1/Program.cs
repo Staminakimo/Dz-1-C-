@@ -9,7 +9,7 @@ a = -9 b = -3 -> max = -3
 
 Console.WriteLine ("Введите первое число:");
 string first_number = Console.ReadLine();
-int F_number = int.Parse (first_number);
+int F_number = int.Parse(first_number);
 
 Console.WriteLine ("Введите второе число:");
 string second_number = Console.ReadLine();
